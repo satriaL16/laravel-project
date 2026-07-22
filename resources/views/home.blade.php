@@ -1,5 +1,5 @@
 @extends('layout.template')
-@section('title', 'Halaman Home - Rental Mobil')
+@section('title', 'Halaman Home - Ngawi-Rent')
 
 @section('content')
 @include('layout.card')

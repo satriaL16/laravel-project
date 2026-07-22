@@ -66,7 +66,7 @@
 <body>
     <div class="header">
         <h3>Laporan Transaksi</h3>
-        <small>Ngawi Drive - Rental Mobil</small>
+        <small>Ngawi-Rent - Rental Mobil</small>
     </div>
 
     <table>
